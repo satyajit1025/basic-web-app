@@ -1,5 +1,5 @@
 # basic-web-app
-Basic Power Finder web application is designed to provide users with a convenient tool for computing the power of a given number. Leveraging the capabilities of AWS Amplify, Lambda, IAM, API Gateway, and DynamoDB, this application offers a seamless and reliable experience for users to perform power calculations effortlessly
+Basic Power Finder web application is designed to provide users with a convenient tool for computing the power of a given number. Leveraging the capabilities of AWS Amplify, Lambda, IAM, API Gateway, and DynamoDB, this application offers a seamless and reliable experience for users to perform power calculations effortlessly.
 # Technologies Used :
 1. AWS Amplify
 2. Amazon API Gateway
